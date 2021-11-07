@@ -1,0 +1,24 @@
+.about-us{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #242424;
+}
+.about__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    margin: 4rem;
+    color: tomato;
+}
+li{
+    color: #fff;
+    margin-top: 1rem;
+}
+footer{
+    text-align: center;
+    background-color: #ccc;
+    color: tomato;
+}
